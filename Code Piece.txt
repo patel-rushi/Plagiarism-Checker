@@ -1,0 +1,1 @@
+pyuic5 -x plagiarism_checker.ui -o plagiarism_checker_UI.py

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="selectfile">
+    <file>C:/Users/RUSHI/Downloads/rsz_marketingresources_thumbnail_searchwidth-1200.jpg</file>
+    <file>images/MarketingResources_Thumbnail_Search.width-1200.jpg</file>
+  </qresource>
+  <qresource prefix="Search"/>
+</RCC>
