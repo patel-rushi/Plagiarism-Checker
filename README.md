@@ -1,6 +1,6 @@
 # Plagiarism-Checker
 
-Step-1: Download / Clone this Repo.
+Step-1: Download Zip or Clone this Repo.
 
 Step-2: Install Python, if you don't have.
 
